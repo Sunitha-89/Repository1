@@ -1,0 +1,6 @@
+1719492206012:scan --basedir "C:\\CT\\SampleProjects"
+1719492217906:scan --basedir "C:/CT/SampleProjects"
+1719982364202:cat -u user -p pwd
+1719982396283:scan --basedir "C:\\\\SampleProjects"
+1719982421999:scanproject cloud-application-transformation
+1719982435068:scanproject helloworld

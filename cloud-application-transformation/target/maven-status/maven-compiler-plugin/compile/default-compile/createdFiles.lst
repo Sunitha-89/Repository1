@@ -1,0 +1,16 @@
+com\ibm\hcs\asset\comd\impl\ActionRenderer.class
+com\ibm\hcs\asset\comd\Command.class
+com\ibm\hcs\asset\comd\impl\LoginCommand.class
+com\ibm\hcs\asset\comd\CloudApplicationTransformationApplication.class
+com\ibm\hcs\asset\comd\impl\HelpCommand.class
+com\ibm\hcs\asset\comd\impl\RecipeRenderer.class
+com\ibm\hcs\asset\comd\impl\AbstractCommand.class
+com\ibm\hcs\asset\comd\impl\ConsolePrinter.class
+com\ibm\hcs\asset\comd\impl\ProjectRenderer.class
+com\ibm\hcs\asset\comd\impl\ScanCommand.class
+com\ibm\hcs\asset\comd\impl\ShellCommandRenderer.class
+com\ibm\hcs\asset\comd\impl\ListCommand.class
+com\ibm\hcs\asset\comd\impl\ApplyCommand.class
+com\ibm\hcs\asset\comd\impl\ScanProjectCommand.class
+com\ibm\hcs\asset\comd\impl\HelpCommandRenderer.class
+com\ibm\hcs\asset\comd\impl\LoginRenderer.class
